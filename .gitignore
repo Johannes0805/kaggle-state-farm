@@ -1,0 +1,15 @@
+# Daten
+data/
+datasets/
+*.csv
+*.zip
+*.jpg
+*.png
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
